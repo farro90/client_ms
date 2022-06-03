@@ -1,2 +1,2 @@
 # client_ms
-Microservices client
+Microservice client
